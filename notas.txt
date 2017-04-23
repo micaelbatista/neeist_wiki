@@ -1,0 +1,13 @@
+contas:
+wiki-Admin:admin pass:admin123
+db-user:root pass:sa
+
+----------------------
+
+extensions:
+comments https://www.mediawiki.org/wiki/Extension:Comments
+flag revs https://www.mediawiki.org/wiki/Extension:FlaggedRevs
+contribution https://www.mediawiki.org/wiki/Extension:Contribution_Scores
+~~~~
+math https://www.mediawiki.org/wiki/Extension:math
+syntax highlight https://www.mediawiki.org/wiki/Extension:SyntaxHighlight
