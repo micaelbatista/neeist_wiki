@@ -133,3 +133,4 @@ wfLoadSkin( 'Vector' );
 # Add more configuration options below.
 
 wfLoadExtension( 'Comments' );
+require_once("$IP/extensions/FlaggedRevs/FlaggedRevs.php");
