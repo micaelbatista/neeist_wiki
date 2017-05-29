@@ -5,10 +5,13 @@ db-user:root pass:sa
 ----------------------
 
 extensions:
-comments https://www.mediawiki.org/wiki/Extension:Comments
+categorias https://www.mediawiki.org/wiki/Extension:CategoryTree
+uploads https://www.mediawiki.org/wiki/Extension:MsUpload
 flag revs https://www.mediawiki.org/wiki/Extension:FlaggedRevs
 contribution https://www.mediawiki.org/wiki/Extension:Contribution_Scores
 ~~~~
+já implementado:
+comments https://www.mediawiki.org/wiki/Extension:Comments
 math https://www.mediawiki.org/wiki/Extension:math
 syntax highlight https://www.mediawiki.org/wiki/Extension:SyntaxHighlight
 ~~~~
