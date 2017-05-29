@@ -11,3 +11,6 @@ contribution https://www.mediawiki.org/wiki/Extension:Contribution_Scores
 ~~~~
 math https://www.mediawiki.org/wiki/Extension:math
 syntax highlight https://www.mediawiki.org/wiki/Extension:SyntaxHighlight
+~~~~
+para revisões paralelas, referir isto:
+https://www.mediawiki.org/wiki/Multi-Content_Revisions
