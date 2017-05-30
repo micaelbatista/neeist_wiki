@@ -5,12 +5,12 @@ db-user:root pass:sa
 ----------------------
 
 extensions:
-categorias https://www.mediawiki.org/wiki/Extension:CategoryTree
 uploads https://www.mediawiki.org/wiki/Extension:MsUpload
 flag revs https://www.mediawiki.org/wiki/Extension:FlaggedRevs
 contribution https://www.mediawiki.org/wiki/Extension:Contribution_Scores
 
 segundo plano:
+categorias https://www.mediawiki.org/wiki/Extension:CategoryTree
 sidebar tree https://www.mediawiki.org/wiki/Extension:TreeAndMenu
 add to category https://www.mediawiki.org/wiki/Extension:Add_Article_to_Category
 videos (fui eu que encontrei isto primeiro.) https://www.mediawiki.org/wiki/Extension:EmbedVideo
